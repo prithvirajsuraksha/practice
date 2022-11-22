@@ -1,2 +1,2 @@
-# prectice
+# practice
 html
